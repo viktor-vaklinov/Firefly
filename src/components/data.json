@@ -1,0 +1,32 @@
+{
+	"connecting":{
+
+	},
+	"error":{
+
+	},
+	"overview":{
+		"modes":[
+			{
+				"active":false,
+				"label":"Daylight",
+				"mode":"daylight"
+			},
+			{
+				"active":false,
+				"label":"Romance",
+				"mode":"romance"
+			},
+			{
+				"active":false,
+				"label":"Disco",
+				"mode":"disco"
+			},
+			{
+				"active":false,
+				"label":"Sunrise",
+				"mode":"sunrise"
+			}
+		]
+	}
+}

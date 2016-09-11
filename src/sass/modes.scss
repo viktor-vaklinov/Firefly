@@ -1,0 +1,11 @@
+.modes {
+	.mode {
+		color: white;
+		font-size: 25px;
+		padding:10px;
+		border-top:1px solid white;
+		&:hover {
+			cursor:pointer;
+		};
+	}
+}

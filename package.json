@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "babel-node": "babel-node --presets=es2015"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "babelify": "~6.3.0",
+    "bootstrap": "~3.3.6",
+    "browserify": "~11.2.0",
+    "es6-promise": "~3.0.2",
+    "gulp": "~3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "~2.0.4",
+    "gulp-sass-glob": "~1.0.5",
+    "gulp-sourcemaps": "~2.0.0-alpha",
+    "gulp-uglify": "~1.5.3",
+    "jquery-ui": "^1.12.0",
+    "lodash": "~4.0.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "request": "~2.72.0",
+    "slick-carousel": "^1.6.0",
+    "url": "^0.11.0",
+    "vinyl-buffer": "~1.0.0",
+    "vinyl-source-stream": "~1.1.0"
+  }
+}

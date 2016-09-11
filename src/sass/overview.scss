@@ -1,0 +1,30 @@
+.overview {
+	background-color: #051c33;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height:100%;
+	width:100%;
+
+	&.daylight {
+		background-image:url('images/daylight.png');
+	}
+	&.romance {
+		background-image:url('images/romance.png');
+	}
+	&.disco {
+		background-image:url('images/disco.png');
+	}
+	&.sunrise {
+		background-image:url('images/sunrise.png');
+	}
+	&.freestyle {
+		background-image:url('images/freestyle.png');
+	}
+	.button {
+		color: #ffff1a; 
+		font-size: 25px;
+		padding-bottom: 20px;
+		font-family: 'Lato-Light';
+	}
+}
